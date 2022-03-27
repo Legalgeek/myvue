@@ -17,6 +17,15 @@ import HelloWorld from '@/components/HelloWorld.vue'
         <RouterLink to="/about">About</RouterLink>
         <RouterLink to="/name">Name</RouterLink>
         <RouterLink to="/red">Red</RouterLink>
+        <RouterLink to="/count">Count</RouterLink>
+        <RouterLink to="/bind">Bind</RouterLink>
+        <RouterLink to="/toggle">Toggle</RouterLink>
+        <RouterLink to="/todos">Todo</RouterLink>
+        <RouterLink to="/todopro">Todopro</RouterLink>
+        <RouterLink to="/mounted">Mounted</RouterLink>
+        <RouterLink to="/watch">Watch</RouterLink>
+        <RouterLink to="/child">Child</RouterLink>
+        <RouterLink to="/slotview">slot</RouterLink>
       </nav>
     </div>
   </header>
